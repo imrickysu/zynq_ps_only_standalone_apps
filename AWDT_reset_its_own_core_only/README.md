@@ -37,3 +37,6 @@ val_global: 3
 Stopped to kick AWDT, waiting for reset happen.
 
 ```
+
+## Test Environment ##
+This example was tested on ZC706 CPU1 with SDK 2015.4, pre-built hardware platform for ZC706.
