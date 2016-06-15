@@ -5,3 +5,6 @@ Setup AWDT. When AWDT times out, the core will be reset. Since the code is locat
 
 ### AWDT_reset_its_own_core_by_FIQ ###
 Setup AWDT in FIQ handler so that when FIQ signal arrives, the core will be reset and reboot.
+
+### FIQ_simple_example ###
+Setup FIQ handler to print a line.
